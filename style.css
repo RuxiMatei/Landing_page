@@ -71,7 +71,9 @@ button{
     height: 30px;
     border-radius: 10px;
     border-width: 0px;
+    cursor: pointer;
 }
+
 #right{
     height: 50%;
     width: 60%;
@@ -204,8 +206,8 @@ h2{
     height: 30px;
     border-radius: 10px;
     border: solid 2px white;
+    cursor: pointer;
 }
-
 
 
 footer{
@@ -225,3 +227,4 @@ footer > p{
     display: flex;
     align-items: center;
 }
+
